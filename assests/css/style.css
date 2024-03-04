@@ -1,0 +1,123 @@
+body{
+    background-color: darkgray;
+}
+#header{
+    background-color: orangered;
+    width: 0 auto;
+    height: 60px;
+    display: flex;
+}
+#header{
+    padding-left: 100px;
+}
+#header .top2{ 
+    padding-left: 420px;
+    padding-top: 10px;
+}
+#header .top2 a{
+    padding-left: 50px;
+    font-size: 25px;
+    color: black;
+}
+#cards .card{
+    background-color: white;
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding-left: 20px;
+}
+#img2{
+    height: 300px;
+    padding-top: 80px;
+}
+#img3{
+    height: 380px;
+    padding-top: 50px;
+}
+#img4{
+    height: 450px;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+#games_cards{
+    display: flex;
+    margin-top: 100px;
+}
+#games_cards .card1{
+    background-color: white;
+    width: 500px;
+    height: 350px;
+}
+#games_cards .card2{
+    background-color: white;
+    width: 500px;
+    height: 350px;
+    margin-left: 10px;
+}
+#games_cards .card3{
+    background-color: white;
+    width: 500px;
+    height: 350px;
+    margin-left: 10px;
+}
+#games_cards .card4{
+    background-color: white;
+    width: 500px;
+    height: 350px;
+    margin-left: 10px;
+}
+#games_cards #img1{
+    height: 210px;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+#games_cards #img2{
+    height: 150px;
+}
+#games_cards #img3{
+    height: 160px;
+    padding-top: 80px;
+    padding-left: 10px;
+}
+#games_cards #img4{
+    height: 200px;
+    padding-top: 80px;
+    padding-left: 40px;
+}
+#xox_player{
+    display: flex;
+    margin-top: 100px;
+}
+#xox_player .card1{
+    background-color: white;
+    margin-left: 10px;
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+}
+#xox_player .card2{
+    background-color: white;
+}
+#xox_player h2{
+    display: flex;
+    justify-content: center;
+    padding-top: 110px;
+    font-size: 50px;
+}
+#xox_border{
+    background-color: white;
+    display: flex;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+}
+#xox_border .block{
+    background-color: white;
+    border: solid black;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
